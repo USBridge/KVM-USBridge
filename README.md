@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="USBridge_Logo.svg" width="400" alt="USBridge Logo">
+  <img src="USBridge_Logo.svg" width="300" alt="USBridge Logo">
 </p>
 
 ### Professional BIOS-level KVM over IP for bare-metal infrastructure.
