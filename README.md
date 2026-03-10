@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="logo.svg" width="400" alt="USBridge Logo">
+</p>
 # USBridge Technologies
 
 ### Professional BIOS-level KVM over IP for bare-metal infrastructure.
